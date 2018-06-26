@@ -1,6 +1,6 @@
 /* 
  * File:   main.c
- * Author: Robert Stephenson / Pavlos Hanna
+ * Author: Shreynit Prasad 
  *
  * 	Sensor into Analog pin 0
  *	stepper lines 1-4 into pins 10, 30, 11, 31
